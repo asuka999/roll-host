@@ -1,0 +1,14 @@
+{
+  "name": "Roll Host",
+  "short_name": "Roll Host",
+  "description": "Roll Host for FE Weekly Share.",
+  "icons": [
+    {
+      "src": "assets/icons/snowy.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+}
